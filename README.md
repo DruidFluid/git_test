@@ -1,0 +1,1 @@
+This is Squam's first git project!
